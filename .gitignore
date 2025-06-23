@@ -1,3 +1,5 @@
 ukraine war analysis nlp/df.csv
 *.gif
 /NLP Model training/long-t5-summarisation
+/NLP Model training/models
+/NLP Model training/tokenised_cnn_dailymail
