@@ -1,0 +1,2 @@
+safe_power(n, safe_power(safe_power(add(safe_power(804, div(n, div(41, 2))), mul(581, 2)), sub(1, n)), 41))
+Fitness: (2.0, 19.0)

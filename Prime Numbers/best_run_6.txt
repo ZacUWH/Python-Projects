@@ -1,0 +1,2 @@
+safe_power(sub(n, 1), safe_power(sub(n, 597), mul(mul(521, sub(n, 41)), 2)))
+Fitness: (2.0, 15.0)

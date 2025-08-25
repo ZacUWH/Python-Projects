@@ -1,0 +1,2 @@
+div(mul(safe_power(add(425, n), add(safe_power(n, 41), 1)), 41), sub(1, safe_power(1, n)))
+Fitness: (2.0, 17.0)

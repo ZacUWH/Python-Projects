@@ -1,0 +1,2 @@
+sub(mul(n, 1), safe_power(1, 41))
+Fitness: (3.0, 7.0)

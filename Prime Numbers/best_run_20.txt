@@ -1,0 +1,2 @@
+sub(safe_power(1, div(41, 41)), sub(2, n))
+Fitness: (3.0, 9.0)

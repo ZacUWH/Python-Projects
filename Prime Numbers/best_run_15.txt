@@ -1,0 +1,2 @@
+sub(n, safe_power(1, safe_power(1, sub(sub(n, 1), add(2, n)))))
+Fitness: (3.0, 13.0)
